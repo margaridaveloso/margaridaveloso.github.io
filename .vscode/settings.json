@@ -1,0 +1,14 @@
+{
+    "scm.alwaysShowActions": true,
+    "scm.providerCountBadge": "hidden",
+    "explorer.fileNesting.enabled": false,
+    "editor.suggest.showStatusBar": true,
+    "breadcrumbs.showArrays": true,
+    "editor.scrollbar.horizontal": "visible",
+    "window.commandCenter": true,
+    "window.autoDetectColorScheme": true,
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "extensions.closeExtensionDetailsOnViewChange": true,
+    "problems.showCurrentInStatus": true,
+    "ipynb.experimental.pasteImages.enabled": true
+}
